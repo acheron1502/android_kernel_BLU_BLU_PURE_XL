@@ -1,0 +1,1 @@
+cmd_arch/x86/kernel/cpu/capflags.c := /bin/bash /home/meh-ue46/android/cm12.1/kernel/alps/kernel-3.10/arch/x86/kernel/cpu/mkcapflags.sh arch/x86/kernel/cpu/../../include/asm/cpufeature.h arch/x86/kernel/cpu/capflags.c

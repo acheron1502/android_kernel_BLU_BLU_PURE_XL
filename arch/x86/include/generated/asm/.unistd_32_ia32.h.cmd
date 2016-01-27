@@ -1,0 +1,1 @@
+cmd_arch/x86/syscalls/../include/generated/asm/unistd_32_ia32.h := /bin/bash '/home/meh-ue46/android/cm12.1/kernel/alps/kernel-3.10/arch/x86/syscalls/syscallhdr.sh' '/home/meh-ue46/android/cm12.1/kernel/alps/kernel-3.10/arch/x86/syscalls/syscall_32.tbl' 'arch/x86/syscalls/../include/generated/asm/unistd_32_ia32.h' 'i386' 'ia32_' ''
